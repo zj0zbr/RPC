@@ -1,2 +1,1 @@
-# mythread
-simple 
+# RPC的idl
