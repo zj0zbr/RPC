@@ -1,4 +1,4 @@
-package org.socket.rpc.framework;
+package zbr.socket.rpc.framework;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -8,7 +8,7 @@ import java.net.Socket;
 import java.net.SocketAddress;
 
 /**
- * Created by andilyliao on 17-4-9.
+ * Created by zj0zbr on 17-4-9.
  */
 public class Send {
     private String ip;
