@@ -1,4 +1,4 @@
-package org.socket.rpc.framework;
+package zbr.socket.rpc.framework;
 
 import org.socket.rpc.idl.IDosomething;
 
@@ -7,7 +7,7 @@ import java.net.ServerSocket;
 import java.net.Socket;
 
 /**
- * Created by andilyliao on 17-4-9.
+ * Created by zj0zbr on 17-4-9.
  */
 public class Server {
     private int port;
