@@ -1,7 +1,7 @@
-package org.socket.rpc.idl;
+package zbr.socket.rpc.idl;
 
 /**
- * Created by andilyliao on 17-4-9.
+ * Created by zj0zbr on 17-4-9.
  */
 public abstract class ILogin extends IDosomething {
     public abstract boolean login(String username,String password);
