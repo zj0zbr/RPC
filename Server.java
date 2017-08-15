@@ -1,6 +1,6 @@
 package zbr.socket.rpc.framework;
 
-import org.socket.rpc.idl.IDosomething;
+import zbr.socket.rpc.idl.IDosomething;
 
 import java.io.IOException;
 import java.net.ServerSocket;
